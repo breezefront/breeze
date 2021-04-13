@@ -5,6 +5,6 @@
     "version": "1.0.0",
     "license": "OSL-3.0",
     "require": {
-        "swissup/module-breeze": "*"
+        "swissup/module-breeze": "^1.0.0"
     }
 }
