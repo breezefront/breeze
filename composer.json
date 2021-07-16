@@ -5,6 +5,7 @@
     "version": "1.4.0",
     "license": "OSL-3.0",
     "require": {
-        "swissup/module-breeze": "^1.4.0"
+        "swissup/module-breeze": "^1.4.0",
+        "swissup/module-breeze-integrations": "^1.0.0"
     }
 }
