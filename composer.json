@@ -2,10 +2,10 @@
     "name": "swissup/breeze",
     "description": "Performant Magento frontend",
     "type": "metapackage",
-    "version": "2.4.3",
+    "version": "2.4.4",
     "license": "OSL-3.0",
     "require": {
-        "swissup/module-breeze": "^2.4.2",
+        "swissup/module-breeze": "^2.4.4",
         "swissup/module-breeze-integrations": "^1.2.8"
     }
 }
