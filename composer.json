@@ -2,7 +2,7 @@
     "name": "swissup/breeze",
     "description": "Performant Magento frontend",
     "type": "metapackage",
-    "version": "2.24.11",
+    "version": "2.24.12",
     "license": "MIT",
     "require": {
         "swissup/module-breeze": "^2.15.0",
